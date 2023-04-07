@@ -3,6 +3,7 @@
 
 <!-- omit in toc -->
 ## Description
+Build the back end for an e-commerce site using the provided Express.js API and configuring it to use Sequelize so that it interacts with MySQL database.
 
 ## Table of Contents
 - [Installation](#installation)
