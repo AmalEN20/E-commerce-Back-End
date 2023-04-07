@@ -39,4 +39,4 @@
 6. Use Insomnia to test API POST, GET, PUT, DELETE routes.
 
 - Walkthrough video
-<video src=""></video>
+<video src="https://user-images.githubusercontent.com/116880367/230572736-0711dff0-7408-4728-9c09-23f1cf247cb1.mp4"></video>
